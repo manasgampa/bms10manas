@@ -4,7 +4,7 @@ import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+//coockies example
 public class CookiesEx1 extends HttpServlet{
 
 	public void service(HttpServletRequest request,HttpServletResponse response) {
